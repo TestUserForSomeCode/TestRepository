@@ -60,6 +60,7 @@
               "z": 2,
               "hasOpenThreats": false,
               "providesAuthentication": true,
+              "threats": [],
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
