@@ -1,7 +1,7 @@
 {
   "summary": {
     "title": "TestThreatModel",
-    "owner": "TestUser",
+    "owner": "TestUserForSomeCode",
     "description": "This is a test Ehealth system to be threat modelled"
   },
   "detail": {
@@ -10,6 +10,13 @@
         "name": "TestUser"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "TestDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": ""
   }
 }
