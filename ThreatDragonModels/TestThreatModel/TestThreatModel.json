@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "TestThreatModel",
-    "owner": "TestUser"
+    "owner": "TestUser",
+    "description": "This is a test Ehealth system to be threat modelled"
   },
   "detail": {
     "contributors": [
