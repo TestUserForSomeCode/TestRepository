@@ -1,0 +1,14 @@
+{
+  "summary": {
+    "title": "TestThreatModel",
+    "owner": "TestUser"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "TestUser"
+      }
+    ],
+    "diagrams": []
+  }
+}
