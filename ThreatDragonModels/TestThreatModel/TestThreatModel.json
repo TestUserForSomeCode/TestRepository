@@ -701,6 +701,9 @@
               "id": "7f63fa3d-0411-418e-9c63-34b9929105ce",
               "z": 6,
               "hasOpenThreats": false,
+              "isAWebApplication": false,
+              "isASwitchingProcess": false,
+              "isAIPSecHostProcess": true,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
