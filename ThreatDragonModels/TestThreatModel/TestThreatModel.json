@@ -503,7 +503,7 @@
                   "title": "Insecure Authorization",
                   "type": "Elevation of privilege",
                   "status": "Open",
-                  "severity": "High",
+                  "severity": "Low",
                   "description": "Authorization vulnerabilities are exploited through automated attacks that use available or custom-built tools. Once the adversary understands how the authorization scheme is vulnerable, they login to the application as a legitimate user. They successfully pass the authentication control. Once past authentication, they typically force-browse to a vulnerable endpoint to execute administrative functionality. This submission process is typically done via mobile malware within the device or botnets owned by the attacker. [50]",
                   "mitigation": "To mitigate this threat, two methods are suggested.  Firstly, ensure the roles and permissions of the authenticated can be confirmed using the information from a backend system.  Lastly, the code from the back end should be able to identify a request from a user and match it to a user\\s profile that is stored in the backend [50]"
                 },
@@ -975,10 +975,6 @@
               }
             }
           ]
-        },
-        "size": {
-          "height": 590,
-          "width": 1011.0000610351562
         }
       }
     ],
